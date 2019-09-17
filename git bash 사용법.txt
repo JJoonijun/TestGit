@@ -24,3 +24,9 @@ git remote add origin https://github.com/pennya/TServer.git
  
 깃 푸쉬
 git push origin master
+
+------------------여기까지 초기설정-----------------------------
+저장소 링크가 끝났으면 
+git remote add .으로 모든 변경값 업데이트 후
+git push로 웹으로 푸시하거나
+git pull로 컴퓨터로 당겨오면 됨! 
